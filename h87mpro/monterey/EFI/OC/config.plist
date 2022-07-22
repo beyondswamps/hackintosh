@@ -248,6 +248,18 @@
 				<data>AwAiDQ==</data>
 				<key>device-id</key>
 				<data>EgQAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AAAAAw==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAABg==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
+				<key>enable-max-pixel-clock-override</key>
+				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -783,7 +795,7 @@
 			<key>AppleCpuPmCfgLock</key>
 			<false/>
 			<key>AppleXcpmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmExtraMsrs</key>
 			<false/>
 			<key>AppleXcpmForceBoost</key>
@@ -1066,23 +1078,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02615104GUGPF71H</string>
+			<string>C02803303CDG0MCCB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>RAAQzqkX</data>
+			<data>EJPpV5Nk</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac17,1</string>
+			<string>Macmini7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02RK9ZEGG7L</string>
+			<string>C02W402JG1J0</string>
 			<key>SystemUUID</key>
-			<string>641FD199-A211-4667-A69D-DC6BCAA26788</string>
+			<string>40EBAC1F-5F8B-4157-B427-B288A9D191C5</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
